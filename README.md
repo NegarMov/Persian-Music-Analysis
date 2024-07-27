@@ -3,7 +3,7 @@
 
 
 ## Introduction
-The primary objective of this project is to analyse a real dataset of Persian music tracks and elicit various features from it. The project's full description (in Persian) can be found [here](https://github.com/NegarMov/Computational-Intelligence/blob/master/ANN_9831062/CI_project1%20-%20Description.pdf).
+The primary objective of this project is to analyse a real dataset of Persian music tracks and elicit various features from it. The project's full description (in Persian) can be found [here](https://github.com/NegarMov/Persian-Music-Analysis/blob/master/AUT%20Data%20Mining%20Spring%202023%20Final%20Project%20Documnet.pdf).
 
 First, the data becomes ready for the regression and classification tasks throughout several steps:
 1. **EDA:** This step helps us to better understand the data and gain a better understanding about its features and characteristics. For example, the value of some of the features are plotted throughout the years to identify the trends, some of them are examined per each artist, and the correlation between each pair of the features are plotted.
